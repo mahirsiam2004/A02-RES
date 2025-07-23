@@ -22,7 +22,9 @@
   }
 } */
 
-
+.plants img{
+  border-radius: 12px;
+}
 .btn{
   padding: 19px 80px;
   background-color: rgb(233, 90, 8);
