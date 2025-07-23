@@ -30,3 +30,15 @@
   width: 100%;
   color: white;
 }
+
+.trust{
+  width: 286px;
+  height: 286px;
+  position: absolute;
+  bottom: 75%;
+  left: 350px;
+}
+
+.test{
+ color: rgba(0, 0, 0, 0.5);
+}
