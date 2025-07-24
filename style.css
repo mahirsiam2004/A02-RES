@@ -22,10 +22,10 @@
   }
 } */
 
-.plants img{
+.plants img {
   border-radius: 12px;
 }
-.btn{
+.btn {
   padding: 19px 80px;
   background-color: rgb(233, 90, 8);
   border: none;
@@ -33,14 +33,21 @@
   color: white;
 }
 
-.trust{
+.trust {
   width: 286px;
   height: 286px;
   position: absolute;
-  bottom: 75%;
+  bottom: 40%;
   left: 350px;
 }
 
-.test{
- color: rgba(0, 0, 0, 0.5);
+.test {
+  color: rgba(0, 0, 0, 0.5);
+}
+
+@media (max-width: 576px) {
+  header {
+    margin-top: 67px;
+    margin-bottom: 28px;
+  }
 }
