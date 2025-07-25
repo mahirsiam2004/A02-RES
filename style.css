@@ -24,6 +24,7 @@
 
 .plants img {
   border-radius: 12px;
+
 }
 .btn {
   padding: 19px 80px;
@@ -49,5 +50,8 @@
   header {
     margin-top: 67px;
     margin-bottom: 28px;
+  }
+  .plants img{
+height: 196.5px;
   }
 }
